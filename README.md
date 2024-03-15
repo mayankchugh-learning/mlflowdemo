@@ -37,11 +37,11 @@ Python mlflowdemo.py 0.3 0.6
 
 MLFLOW_TRACKING_URI=https://dagshub.com/mayankchugh-learning/mlflowdemo.mlflow \
 MLFLOW_TRACKING_USERNAME=mayankchugh-learning \
-MLFLOW_TRACKING_PASSWORD=6e159232d9211a02a015f21fa7645986dfa6caa1 \
+MLFLOW_TRACKING_PASSWORD= \
 
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/mayankchugh-learning/mlflowdemo.mlflow
 export MLFLOW_TRACKING_USERNAME=mayankchugh-learning
-export MLFLOW_TRACKING_PASSWORD=6e159232d9211a02a015f21fa7645986dfa6caa1
+export MLFLOW_TRACKING_PASSWORD=
 
 
